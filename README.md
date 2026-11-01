@@ -2,7 +2,7 @@
 
 A fast multimedia soundboard of multilingual worship phrases with player controls, volume, loop and an EQ visualizer.  
 
-Live: `https://placeholder.vercel.app`
+Live: `https://ministry-multilingual-soundboard-dmfghhqcc-rojo12.vercel.app`
 
 ## Stack
 - Vite + Vanilla TypeScript + Tailwind CSS (dark mode)
